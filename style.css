@@ -1,3 +1,13 @@
 .class{
     color: #564;
+    background-color: #fff;
+}
+
+.class a{
+    color: #000;
+    background-color: #111;
+}
+.class ul{
+    color: #000;
+    background-color: #111;
 }
